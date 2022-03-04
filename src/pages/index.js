@@ -1,6 +1,11 @@
 import * as React from 'react';
 const Homepage = ()=>{
-  return <h1>Homepage</h1>;
+  return (
+  <div>
+    <h1>Homepage</h1>
+    <p>wasup</p>
+  </div>
+  );
 };
 
 export default Homepage;
